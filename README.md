@@ -1,8 +1,8 @@
 # Agile CI/CD practice
 
 ## Student details
-Student identifier: [complete with an approved identifier]
-Group: [complete]
+Student identifier: 241489
+Group: ITE-2401
 
 ## Sprint goal
 Deliver a Sprint Dashboard that accurately displays completed story points and can be updated through an automated, tested release process.
